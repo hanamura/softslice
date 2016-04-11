@@ -2,7 +2,7 @@
 
 ## Usage
 
-### softSlice(array, index, sliceLength, leftPrioritized = true)
+### softSlice(array, index, sliceLength, [leftPrioritized=true])
 
 Returns new array softly sliced from an `array`.
 
