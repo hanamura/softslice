@@ -1,5 +1,7 @@
 # softslice
 
+Slice array with base index and length around it.
+
 ## Usage
 
 ### softSlice(array, index, sliceLength, [leftPrioritized=true])
