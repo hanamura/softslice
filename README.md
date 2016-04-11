@@ -1,4 +1,4 @@
-# softslice
+# softslice [![Build Status](https://travis-ci.org/hanamura/softslice.svg?branch=master)](https://travis-ci.org/hanamura/softslice)
 
 Slice array with base index and length around it.
 
