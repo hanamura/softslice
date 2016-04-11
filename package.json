@@ -1,0 +1,25 @@
+{
+  "name": "softslice",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Taro Hanamura <m@hanamurataro.com> (http://hanamurataro.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "lodash.range": "^3.1.4",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanamura/softslice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hanamura/softslice/issues"
+  },
+  "homepage": "https://github.com/hanamura/softslice#readme"
+}
